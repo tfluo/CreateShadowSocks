@@ -23,7 +23,8 @@ make install
  python(3) setup.py install
 
 ## 04. install shadowsocks
-pip(3) install shadowsocks
+pip(3) install shadowsocks-2.8.2.tar.gz  
+pip(3) install 2.9.1[1].zip
 
 ## 05. start shadowsocks
 mkdir /opt/ssserver/
